@@ -1,2 +1,2 @@
-# my-repo
-A script to change system wide and git proxy settings
+# Simple script to set system-wide + Git proxy
+
